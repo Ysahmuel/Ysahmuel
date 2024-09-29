@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am an IT student who pursues the field of programming and development of technology. 
 <!--
 **Ysahmuel/Ysahmuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
